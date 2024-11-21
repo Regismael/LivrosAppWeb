@@ -1,0 +1,6 @@
+@LivrosApp.API_HostAddress = http://localhost:5146
+
+GET {{LivrosApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

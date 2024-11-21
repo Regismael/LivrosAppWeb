@@ -1,0 +1,50 @@
+# .NET Core
+bin/
+obj/
+
+# VS for Mac
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer directories
+install/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# User-specific Visual Studio for Mac files
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET Core SignalR files
+signalr/
+
+# Logs
+logs/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
